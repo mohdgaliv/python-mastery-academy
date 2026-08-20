@@ -1,0 +1,6 @@
+{
+  "name": "Python Mastery Academy",
+  "description": "A complete interactive Python learning platform that teaches Python from fundamentals to AI/ML preparation through lessons, examples, quizzes, coding challenges, projects, progress tracking, achievements, and certificate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
